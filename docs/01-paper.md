@@ -2,7 +2,7 @@
 
 A tutorial to evolve markdown documents and notebooks into structured data
 
-**Authors:** Rowan Cockett<sup>1,2</sup> \
+**Authors:** Henk de Mol<sup>1,2</sup> \
 **Affiliations:** <sup>1</sup>Executable Books, <sup>2</sup> Curvenote \
 **License:** CC-BY
 
