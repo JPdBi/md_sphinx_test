@@ -5,5 +5,5 @@ A
 
 ## TKI OFCOARSE
 
-![](./images/citations.png)
+![](./images/Logo_TKI_OFCOARSE.png)
 **Figure 1**: TKI OFCOARSE logo
